@@ -1,12 +1,15 @@
 {
   "name": "@vevox/util-event",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://lab.vevox.io/open-source/util/event",
   "author": "Vevox Digital",
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@vevox/util-types": "^0.1.0"
+  }
 }
