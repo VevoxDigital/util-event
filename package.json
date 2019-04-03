@@ -5,5 +5,8 @@
   "repository": "https://lab.vevox.io/open-source/util/event",
   "author": "Vevox Digital",
   "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
   "private": false
 }
