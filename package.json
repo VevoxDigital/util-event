@@ -1,0 +1,9 @@
+{
+  "name": "@vevox/util-event",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://lab.vevox.io/open-source/util/event",
+  "author": "Vevox Digital",
+  "license": "MIT",
+  "private": false
+}
