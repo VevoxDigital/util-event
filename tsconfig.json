@@ -2,6 +2,9 @@
   "extends": "../../tsconfig.es5.json",
   "compilerOptions": {
     "outDir": "lib/",
-    "rootDir": "src/"
+    "rootDir": "src/",
+    "types": [
+      "node"
+    ]
   }
 }
