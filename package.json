@@ -5,6 +5,9 @@
   "repository": "https://lab.vevox.io/open-source/util/event",
   "author": "Vevox Digital",
   "license": "MIT",
+  "scripts": {
+    "prepublish": "tsc"
+  },
   "engines": {
     "node": ">=10"
   },

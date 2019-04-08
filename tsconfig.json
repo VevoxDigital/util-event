@@ -6,5 +6,8 @@
     "types": [
       "node"
     ]
-  }
+  },
+  "exclude": [
+    "lib"
+  ]
 }
